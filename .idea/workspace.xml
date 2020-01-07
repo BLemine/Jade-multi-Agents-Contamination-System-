@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9facfed1-f040-4e59-826f-263a473a6573" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VvWATYeaM3QqlPmjfTFbhdFSrU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/jade.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.VirusedContainer">
+    <configuration name="MainContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="plateform.MainContainer" />
+      <module name="viruscope" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleContainer" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="plateform.SimpleContainer" />
+      <module name="viruscope" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="plateform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirusedContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="plateform.VirusedContainer" />
+      <module name="viruscope" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="plateform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainContainer" />
+      <item itemvalue="Application.SimpleContainer" />
+      <item itemvalue="Application.VirusedContainer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VirusedContainer" />
+        <item itemvalue="Application.SimpleContainer" />
+        <item itemvalue="Application.MainContainer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9facfed1-f040-4e59-826f-263a473a6573" name="Default Changelist" comment="" />
+      <created>1578133905797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578133905797</updated>
+      <workItem from="1578133909996" duration="3171000" />
+      <workItem from="1578153604112" duration="5790000" />
+      <workItem from="1578220278132" duration="9679000" />
+      <workItem from="1578240504995" duration="12345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="89" width="816" height="729" key="#Intentions" timestamp="1578224862500">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" width="816" height="729" key="#Intentions/0.0.1600.860@0.0.1600.860" timestamp="1578224862500" />
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578223516201">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1578223516201" />
+    <state x="496" y="136" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1578224314101">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="136" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1600.860@0.0.1600.860" timestamp="1578224314101" />
+    <state x="605" y="115" key="#com.intellij.ide.util.MemberChooser" timestamp="1578252533080">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="115" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1578252533080" />
+    <state x="430" y="120" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578134503008">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="430" y="120" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1600.860@0.0.1600.860" timestamp="1578134503008" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1578134682099">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1578134682099" />
+    <state width="1557" height="197" key="GridCell.Tab.0.bottom" timestamp="1578253715218">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="197" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578253715218" />
+    <state width="1557" height="197" key="GridCell.Tab.0.center" timestamp="1578253715218">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="197" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578253715218" />
+    <state width="1557" height="197" key="GridCell.Tab.0.left" timestamp="1578253715218">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="197" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578253715218" />
+    <state width="1557" height="197" key="GridCell.Tab.0.right" timestamp="1578253715218">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="197" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578253715218" />
+    <state width="1557" height="210" key="GridCell.Tab.1.bottom" timestamp="1578234268706">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="210" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578234268706" />
+    <state width="1557" height="210" key="GridCell.Tab.1.center" timestamp="1578234268705">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="210" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1578234268705" />
+    <state width="1557" height="210" key="GridCell.Tab.1.left" timestamp="1578234268705">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="210" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1578234268705" />
+    <state width="1557" height="210" key="GridCell.Tab.1.right" timestamp="1578234268705">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="210" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1578234268705" />
+    <state x="280" y="5" key="SettingsEditor" timestamp="1578134695135">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1578134695135" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1578240510681">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578240510681" />
+    <state x="496" y="28" width="607" height="804" key="find.popup" timestamp="1578134451194">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="28" width="607" height="804" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1578134451194" />
+  </component>
+</project>
