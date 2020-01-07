@@ -1,26 +1,19 @@
 package agents;
+/**
+ * C'est l'agent qui répresente le virus
+ * Le virus se deplace d'un noeud vers l'autre selon sa position initiale qui définit 
+ * les positions accessibles.
+ * Une fois le virus est déplacé d'un container à un autre, il envoie un message _ACL_ vers 
+ * l'agent auxiliaire afin de mettre à jour l'état de contamination à _true_ (l'état est modifié 
+ * par l'agent auxiliaire "agentContainer-i").
+ */
 
-import jade.core.AID;
-import jade.core.Agent;
-import jade.core.ContainerID;
-import jade.core.behaviours.OneShotBehaviour;
-import jade.domain.AMSService;
-import jade.domain.FIPAAgentManagement.AMSAgentDescription;
-import jade.domain.FIPAAgentManagement.SearchConstraints;
-import jade.lang.acl.ACLMessage;
-import jade.wrapper.AgentController;
-import jade.wrapper.ContainerController;
-import jade.wrapper.ControllerException;
-import support.PathRouter;
-
-import java.util.List;
-import java.util.concurrent.TimeUnit;
 
 public class Virus extends Agent {
-
+    // Cette fonction est pour verifier si un agent exist dans un container donné
     public boolean virusExists(String name, ContainerController container){
         try{
-            AgentController potentailcop = container.getAgent("mobileCop");
+            AgentController potentailcop = container.getAgent(name);
             return true;
         }catch(Exception ex){
             return false;
@@ -53,6 +46,9 @@ public class Virus extends Agent {
     @Override
     protected void afterMove() {
         try {
+            /**
+             * Si le virus tombe dans un noeud de l'un des policiers alors il sera mort 
+             */
             if(virusExists("mobileCop",this.getContainerController()) || virusExists("fixCop",this.getContainerController())){
                 ACLMessage message = new ACLMessage(ACLMessage.INFORM) ;
                 String agentName = null;

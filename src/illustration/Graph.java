@@ -1,5 +1,10 @@
 package illustration;
-
+/**
+ * C'est l'illustation graphique du déplacement, 
+ * cette illustration n'est pas encore términé, 
+ * pour le moment c'est le mode console; les messages ACL 
+ * sont traduits par la suite vers des messages console.
+ */
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import java.awt.Graphics;
